@@ -1,0 +1,12 @@
+name: obspy
+
+channels:
+  - conda-forge
+
+dependencies:
+  - ipython
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - obspy
+  - scipy
